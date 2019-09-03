@@ -37,7 +37,7 @@ Po wybraniu tej integracji otrzymasz adres URL do użycia podczas konfiguracji u
 ![Konfiguracja wykrywania obecności](/AIS-docs/img/en/bramka/presence_detection_2.png)
 
 
-### Konfiguracja w systemie Andrid
+### Konfiguracja w systemie Android
 
  <a href="https://play.google.com/store/apps/details?id=org.owntracks.android" target="_blank">Zainstaluj aplikację OwnTracks dla Android.</a>
 
